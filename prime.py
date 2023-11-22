@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-    Koceali University
+    Kocaeli University
     Arsene Adjevi(235172001)
     Innovative Approaches in Computer Architectures(Exam report)
 
